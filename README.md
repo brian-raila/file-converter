@@ -1,9 +1,9 @@
 How to use.
 
 1. Pull the repository 
-2. RUN
+2. 'cd' into the directory.
 		
-	python   convert.py   <format>    <**files>
+3. usage:  python   convert.py   <format>  file1   file2
 
 	EXAMPLE:
 
@@ -11,4 +11,4 @@ How to use.
 
 Note: You can add as many files as you wish
 
-Works for music, videos and images so far
+Works for music and images so far
